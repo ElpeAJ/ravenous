@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.title p{
+  text-align: center;
+  font-size: 30px;
+  font-weight: 600;
+  background-color: rgb(219, 190, 31);
+  color: white;
+  padding: 12px 0;
+}
+
+.businesses{
+  margin: 4em 7em;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 550px) {
+  .businesses{
+    margin: 4em 1.2em;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+}
