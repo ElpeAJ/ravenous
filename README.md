@@ -18,7 +18,7 @@ Create a restaurant recommendation website using React, allowing users to search
 * Responsive design
 
 **Getting Started:**
-1. Clone the repository: `git clone https://github.com/your-username/ravenous.git`
+1. Clone the repository: `https://github.com/ElpeAJ/ravenous.git`
 2. Install dependencies: `npm install` or `yarn install`
 3. Start the development server: `npm start` or `yarn start`
 
@@ -28,5 +28,5 @@ Create a restaurant recommendation website using React, allowing users to search
 * Improve user interface and user experience.
 
 **Project Status:**
-All tasks completed so far.
+All Codecademy tasks completed so far.
 
